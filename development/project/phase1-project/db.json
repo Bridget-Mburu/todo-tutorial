@@ -1,0 +1,64 @@
+{
+    "flowers": [
+      {
+        "id": "1",
+        "name": "Calla lily",
+        "image": "https://www.bhg.com/thmb/Bw49DwP2S0BNy2nOvp-NSSaoIMA=/1858x0/filters:no_upscale():strip_icc()/two-Calla-lilies-b8c6af449bb14de7a83a86e7d7c8a3d1.jpg",
+        "likes": "12"
+      },
+      {
+        "id": "2",
+        "name": "Jasmine",
+        "image": "https://5.imimg.com/data5/JC/MD/KQ/SELLER-73537456/jasmine-flower.jpg",
+        "likes": "8"
+      },
+      {
+        "id": "3",
+        "name": "Lavender",
+        "image": "https://t0.gstatic.com/licensed-image?q=tbn:ANd9GcQFAhJDI8lB8kg4xnzrixRvqZMenoFLqsCa2ZIXfPX5C6O6HGmth--LSaNSx5On7G2U",
+        "likes": "14"
+      },
+      {
+        "id": "4",
+        "name": "Rose",
+        "image": "https://t2.gstatic.com/licensed-image?q=tbn:ANd9GcRoZC_JQAsW5rB_YteF6L0u0o94iMUKzkHxa8ibXSoB79pY8mNVv5BnbKehy7mZTEBS",
+        "dlikes": "21"
+      },
+      {
+        "id": "5",
+        "name": "Marigold",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Tagetes_erecta_chendumalli_chedi.jpg/1200px-Tagetes_erecta_chendumalli_chedi.jpg",
+        "likes": "16"
+      },
+      {
+        "id": "6",
+        "name": "tulip",
+        "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTOrMNz3BHenLXvLrJeh1UzWDK1ZtaXrwG84T65A2LrA3JlI_cU",
+        "likes": "8"
+      },
+      {
+        "id": "7",
+        "name": "Azelia",
+        "image": "https://t3.gstatic.com/licensed-image?q=tbn:ANd9GcQmGS0EPHMoZi8xyNGOv0aQYuYzF3uLSxjVlkTK1kS5MKNWTK1Kn59Uu7M19SArxeFF",
+        "likes": "18"
+      },
+      {
+        "id": "8",
+        "name": "Daisy",
+        "image": "https://t2.gstatic.com/licensed-image?q=tbn:ANd9GcSqHfICK43wxLXs8t5v_R_4qKfi4cAZNJm70JTe7hV_-ynvu5zCBYv4NJOyHMNYc7X3",
+        "likes": "13"
+      },
+      {
+        "id": "9",
+        "name": "iris",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/49/Iris_germanica_%28Purple_bearded_Iris%29%2C_Wakehurst_Place%2C_UK_-_Diliff.jpg",
+        "likes": "5"
+      },
+      {
+        "id": "10",
+        "name": "Sunflower",
+        "image": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcRWQHy63wKx6JoRBBoPO8dZyQbMTwgvIHEcso__k6rORz2E7UkX5L8vhVdR4470uCeC",
+        "likes": ""
+      }
+    ]
+}
